@@ -1,2 +1,2 @@
-# NoveX-Studio
-Files from NoveX Studio
+# Livro Studio
+Files from Livro Studio App
